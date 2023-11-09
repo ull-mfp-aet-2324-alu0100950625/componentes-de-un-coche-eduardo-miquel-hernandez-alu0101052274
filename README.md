@@ -2,3 +2,7 @@
 # componentes-de-un-coche-template
 
 Nombra 3 componentes de un coche
+
+1. LLANTA
+2. MOTOR
+3. EMBRAGUE
